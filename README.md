@@ -193,9 +193,9 @@ Xem thống kê bán hàng.
 
 --Giao diện database
 
-![Image](https://github.com/user-attachments/assets/672ce955-285a-4976-9dac-157b7105e63d)
+![Image](https://github.com/user-attachments/assets/1a1b23af-092a-4302-854c-67445bdf1cd3)
 
-![Image](https://github.com/user-attachments/assets/a1fbcf4d-209b-4dc9-97f1-9d0079eb504a)
+![Image](https://github.com/user-attachments/assets/ade757d0-1fc2-43d7-b9bd-bceef395f467)
 
 🌐 Public Link
 
