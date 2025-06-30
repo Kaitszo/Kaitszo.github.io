@@ -96,7 +96,7 @@ CSRF
 
 -- Session & Cookie
 
-![Image](https://github.com/user-attachments/assets/9aedd7d4-a03a-41ca-a9c4-c35b03a1b262)
+![Image](https://github.com/user-attachments/assets/b7c8bf58-c34e-4b33-b5ef-3d11e85587dd)
 
 
 
